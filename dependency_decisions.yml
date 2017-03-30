@@ -1,0 +1,167 @@
+---
+- - :whitelist
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 19:54:08.556056000 Z
+- - :whitelist
+  - Apache
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:07:55.025771000 Z
+- - :whitelist
+  - Apache 2.0
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:07:55.025771000 Z
+- - :whitelist
+  - ruby
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:14:39.569327000 Z
+- - :whitelist
+  - BSD
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:25:50.993023000 Z
+- - :whitelist
+  - Simplified BSD
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:25:50.993023000 Z
+- - :whitelist
+  - LGPL
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:26:23.507902000 Z
+- - :whitelist
+  - GPL
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:26:59.598946000 Z
+- - :whitelist
+  - ISC
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-30 20:43:20.305038000 Z
+- - :license
+  - annotate
+  - ruby
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the same license as Ruby - https://github.com/ctran/annotate_models
+    :versions: []
+    :when: 2017-03-30 20:25:22.863980000 Z
+- - :license
+  - composite_primary_keys
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been releaseed under the MIT license per the gemspec - https://github.com/composite-primary-keys/composite_primary_keys/blob/b245c9da726a6f6d6660b701d4caaaaf23b78292/composite_primary_keys.gemspec
+    :versions: []
+    :when: 2017-03-30 20:30:20.437254000 Z
+- - :license
+  - minitest
+  - MIT
+  - :who: 
+    :why: The gem has been released under the MIT license - https://github.com/seattlerb/minitest
+    :versions: []
+    :when: 2017-03-30 20:32:30.881961000 Z
+- - :license
+  - quiet_assets
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/evrone/quiet_assets
+    :versions: []
+    :when: 2017-03-30 20:34:45.830419000 Z
+- - :license
+  - rack_session_access
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/railsware/rack_session_access
+    :versions: []
+    :when: 2017-03-30 20:35:44.435975000 Z
+- - :license
+  - rubyzip
+  - ruby
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the same license as Ruby - https://github.com/rubyzip/rubyzip
+    :versions: []
+    :when: 2017-03-30 20:37:04.921506000 Z
+- - :license
+  - terminal-table
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/tj/terminal-table
+    :versions: []
+    :when: 2017-03-30 20:38:06.885763000 Z
+- - :license
+  - unicorn
+  - GPL
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the GPL license - https://github.com/defunkt/unicorn
+    :versions: []
+    :when: 2017-03-30 20:41:47.481162000 Z
+- - :license
+  - asset_sync
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/AssetSync/asset_sync
+    :versions: []
+    :when: 2017-03-30 21:15:24.449854000 Z
+- - :ignore
+  - bundler
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: Bundler is used in conjunction with repository, but repository is not dependent
+      on it
+    :versions: []
+    :when: 2017-03-30 21:17:33.694610000 Z
+- - :license
+  - rails_12factor
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/heroku/rails_12factor
+    :versions: []
+    :when: 2017-03-30 21:18:01.853231000 Z
+- - :license
+  - rails_serve_static_assets
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/heroku/rails_serve_static_assets
+    :versions: []
+    :when: 2017-03-30 21:18:40.762851000 Z
+- - :license
+  - rdoc
+  - GPL
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the GPL license - https://github.com/rdoc/rdoc
+    :versions: []
+    :when: 2017-03-30 21:20:14.755866000 Z
+- - :license
+  - unicode_utils
+  - Simplified BSD
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the Simplified BSD license - https://github.com/lang/unicode_utils
+    :versions: []
+    :when: 2017-03-30 21:21:33.111606000 Z
+- - :license
+  - wkhtmltopdf-binary-edge
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/pallymore/wkhtmltopdf-binary-edge
+    :versions: []
+    :when: 2017-03-30 21:22:28.798816000 Z
+- - :license
+  - xpath
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/jnicklas/xpath
+    :versions: []
+    :when: 2017-03-30 21:23:15.706782000 Z
