@@ -165,3 +165,35 @@
     :why: The gem has been released under the MIT license - https://github.com/jnicklas/xpath
     :versions: []
     :when: 2017-03-30 21:23:15.706782000 Z
+- - :license
+  - cookiejar
+  - Simplified BSD
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the Simplified BSD license - https://github.com/dwaite/cookiejar
+    :versions: []
+    :when: 2017-03-31 18:34:24.996298000 Z
+- - :approve
+  - eventmachine_httpserver
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: Not license present on GitHub or RubyGems.org
+    :versions: []
+    :when: 2017-03-31 18:40:19.187172000 Z
+- - :whitelist
+  - New BSD
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-31 18:43:04.837137000 Z
+- - :license
+  - websocket
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://rubygems.org/gems/websocket/versions/1.2.3
+    :versions: []
+    :when: 2017-03-31 18:44:58.500028000 Z
+- - :whitelist
+  - LGPLv2+
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
+    :versions: []
+    :when: 2017-03-31 18:46:30.404811000 Z
