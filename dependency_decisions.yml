@@ -197,3 +197,9 @@
     :why: It is approved by the Free Software Foundation (https://www.gnu.org/licenses/license-list.en.html)
     :versions: []
     :when: 2017-03-31 18:46:30.404811000 Z
+- - :approve
+  - rack-allowed_hosts
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/synack/rack-allowed_hosts
+    :versions: []
+    :when: 2017-04-24 21:00:55.309633000 Z    
