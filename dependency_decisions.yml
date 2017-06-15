@@ -202,4 +202,12 @@
   - :who: Tunde Agboola - Director of Software Engineering
     :why: The gem has been released under the MIT license - https://github.com/synack/rack-allowed_hosts
     :versions: []
-    :when: 2017-04-24 21:00:55.309633000 Z    
+    :when: 2017-04-24 21:00:55.309633000 Z
+- - :license
+  - gabba
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-06-15 14:57:58.749169000 Z
+        
