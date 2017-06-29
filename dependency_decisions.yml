@@ -210,4 +210,10 @@
     :why: 
     :versions: []
     :when: 2017-06-15 14:57:58.749169000 Z
+- - :approve
+  - newrelic_rpm
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: New Relic grants you a nonexclusive, nontransferable license, without the right to sublicense, to (a) install and execute one copy of these files on any number of workstations owned or controlled by you and (b) distribute verbatim copies of these files to third parties.
+    :versions: []
+    :when: 2017-06-29 17:30:50.632633000 Z    
         
