@@ -215,5 +215,23 @@
   - :who: Tunde Agboola - Director of Software Engineering
     :why: New Relic grants you a nonexclusive, nontransferable license, without the right to sublicense, to (a) install and execute one copy of these files on any number of workstations owned or controlled by you and (b) distribute verbatim copies of these files to third parties.
     :versions: []
-    :when: 2017-06-29 17:30:50.632633000 Z    
-        
+    :when: 2017-06-29 17:30:50.632633000 Z
+- - :license
+  - blankslate
+  - MIT
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under the MIT license - https://github.com/masover/blankslate/blob/master/MIT-LICENSE
+    :versions: []
+    :when: 2018-01-10 00:43:06.793509000 Z
+- - :approve
+  - kgio
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why: The gem has been released under a version of the LPGL licence - https://github.com/betterplace/kgio/blob/master/LICENSE
+    :versions: []
+    :when: 2018-01-10 00:44:42.301716000 Z
+- - :approve
+  - raindrops
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why:  The gem has been released under a version of the LPGL licence - https://github.com/tmm1/raindrops/blob/master/LICENSE
+    :versions: []
+    :when: 2018-01-10 00:45:18.233531000 Z
