@@ -235,3 +235,9 @@
     :why:  The gem has been released under a version of the LPGL licence - https://github.com/tmm1/raindrops/blob/master/LICENSE
     :versions: []
     :when: 2018-01-10 00:45:18.233531000 Z
+- - :approve
+  - power_assert
+  - :who: Tunde Agboola - Director of Software Engineering
+    :why:  The gem has been released under a version of the BSD licence - https://github.com/k-tsj/power_assert/blob/master/BSDL
+    :versions: []
+    :when: 2018-01-10 00:45:18.233531000 Z    
